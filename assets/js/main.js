@@ -1,7 +1,7 @@
 /**
-* Template Name: SoftLand
+* Template Name: Bloom
 * Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/
+* Template URL: https://bootstrapmade.com/Bloom-bootstrap-app-landing-page-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
